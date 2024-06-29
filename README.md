@@ -23,7 +23,7 @@ A modified classic version of the game which has 81 and 729 squares respectively
 ![snapshot2](snapshots/snapshot2.png)
 
 ### Snapshot 3 - Max Game Mode
-![snapshot3](snapshots/snapshot2.png)
+![snapshot3]()
 
 ### Snapshot 4 - Max Board
 ![snapshot4](snapshots/snapshot4.png)
